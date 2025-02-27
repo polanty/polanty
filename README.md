@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Python, Java.<br>🎲 Fun fact: I've got Excellent people skills.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python, Java.<br>🎲 Fun fact: I've got Excellent people skills.</p>
 
 ###
 
